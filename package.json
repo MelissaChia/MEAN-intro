@@ -1,0 +1,15 @@
+{
+  "name": "first-day",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "to-upper": "^1.0.1",
+    "upper-case": "^1.1.3"
+  }
+}
